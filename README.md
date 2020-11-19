@@ -13,4 +13,4 @@ Final year MCA student (Passing Year 2021). My aim is to pursue a challenging ca
 
 
 ## Get In Touch
-[<img src="https://user-images.githubusercontent.com/29120494/99686394-91452700-2aa9-11eb-9213-52c871e0e54b.jpg" height="30px"/>](https://www.linkedin.com/in/013himanshu/)
+[<img src="https://user-images.githubusercontent.com/29120494/99687121-4aa3fc80-2aaa-11eb-9777-e6e623977104.png" height="30px"/>](https://www.linkedin.com/in/013himanshu/)
