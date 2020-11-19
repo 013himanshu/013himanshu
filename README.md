@@ -14,4 +14,10 @@ Final year MCA student (Passing Year 2021). My aim is to pursue a challenging ca
 
 ## I have worked upon following tech.
 
-<img src="https://user-images.githubusercontent.com/29120494/99681184-de25ff00-2aa3-11eb-94d8-945a3c677f6b.png" height="100px"/>
+<table border="0px">
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/29120494/99681184-de25ff00-2aa3-11eb-94d8-945a3c677f6b.png" height="100px"/></td>
+    <td><img src="https://user-images.githubusercontent.com/29120494/99681779-8d62d600-2aa4-11eb-9c71-309ec7741d12.png" height="50px"/></td>
+  </tr>
+</table>
+ 
