@@ -6,9 +6,9 @@
 ## About Me
 Final year MCA student (Passing Year 2021). My aim is to pursue a challenging career while teaming up with people with similar mindset to come up with products that put a significant impact towards the future in Science and Technology. 
 
-- :iphone: I’m currently learning Android Development with kotlin.
+- :iphone: I’m currently into Android Development with kotlin.
 - :triangular_flag_on_post: I have an experience of making mobile responsive websites.
-- :scroll: I plan on learning the MERN Stack or Flutter/ReactNative for cross platform mobile app. development as well in the future.
+- :scroll: I plan on learning Flutter/ReactNative for cross platform mobile app. development as well.
 - :video_game: I love spending my free time by playing games on my laptop or watching videos on youtube.
 - :tv: My second favourite timepass is to watch movies *(South Indian movies are bomb)*.
 
