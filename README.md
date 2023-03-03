@@ -2,7 +2,7 @@
 
 
 ## About Me
-- ☁️: Associate Software Developer @ [Cyntexa](https://cyntexa.com/) (*__Salesforce Silver Consulting Partner__*).
+- ☁️: Associate Software Developer @ [Cyntexa](https://cyntexa.com/) (*__Salesforce Consulting Partner__*).
 - :triangular_flag_on_post: I have an experience in Apex, Lightning Web Components, Triggers, Sales Cloud, Salesforce Admin, API Integrations, Javascript, HTML.
 - :scroll: I try to take on quests & challenges on trailhead in my leisure time.
 - :video_game: I love spending my free time by playing games on my laptop or watching videos on youtube.
